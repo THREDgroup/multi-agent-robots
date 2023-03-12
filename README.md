@@ -1,5 +1,5 @@
 # multi-agent-robots
-multi-agent-robots is a Unity based project involving a multi-agent reinforcement learning framework for intelligent manufacturing with autonomous mobile robots. This work is currently being submitted to a conference.
+multi-agent-robots is a Unity based project involving a multi-agent reinforcement learning framework for intelligent manufacturing with autonomous mobile robots. This work was presented and published at the International Conference on Engineering Design 2021: Agrawal, A., Won, S., Sharma, T., Deshpande, M., & McComb, C. (2021). A MULTI-AGENT REINFORCEMENT LEARNING FRAMEWORK FOR INTELLIGENT MANUFACTURING WITH AUTONOMOUS MOBILE ROBOTS. Proceedings of the Design Society, 1, 161-170. doi:10.1017/pds.2021.17
 
 ## Installation and Usage
 Follow [ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) for installation and usage. Here are links to key files in this repository for the reader of the conference paper.
